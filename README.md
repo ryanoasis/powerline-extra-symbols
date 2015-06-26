@@ -1,4 +1,4 @@
-# powerline-extra-symbols
+# Powerline Extra Symbols
 Extra glyphs for your powerline separators (work in progress)
 
 ![preview](preview.png)
