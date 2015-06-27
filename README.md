@@ -3,6 +3,9 @@ Extra glyphs for your powerline separators (work in progress)
 
 ![preview](preview.png)
 
+Attempt at an abstract pixelated faded effect:
+![preview](preview-2.png)
+
 ![font forge](fontforge.png)
 
 ## TODO
