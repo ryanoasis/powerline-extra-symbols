@@ -9,6 +9,9 @@ Attempt at an abstract pixelated faded effect (blocks probably need to be larger
 Vim preview also showing column number glyph:
 ![preview](preview-3.png)
 
+This prompt is on fiiire (flaming shell), just having some fun:
+![preview](preview-4.png)
+
 ![font forge](fontforge.png)
 
 # Sample Configurations
