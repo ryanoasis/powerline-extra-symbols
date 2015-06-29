@@ -6,6 +6,9 @@ Extra glyphs for your powerline separators (work in progress)
 Attempt at an abstract pixelated faded effect (blocks probably need to be larger):
 ![preview](preview-2.png)
 
+Vim preview also showing column number glyph:
+![preview](preview-3.png)
+
 ![font forge](fontforge.png)
 
 # Sample Configurations
