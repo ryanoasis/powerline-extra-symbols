@@ -4,12 +4,15 @@ Extra glyphs for your powerline separators (work in progress)
 ![preview](preview.png)
 
 Attempt at an abstract pixelated faded effect (blocks probably need to be larger):
+
 ![preview](preview-2.png)
 
 Vim preview also showing column number glyph:
+
 ![preview](preview-3.png)
 
 This prompt is on fiiire (flaming shell), just having some fun:
+
 ![preview](preview-4.png)
 
 ![font forge](fontforge.png)
@@ -60,6 +63,6 @@ Example configuration I have for [milkbikis powerline-shell](https://github.com/
 
 * [ ] Add more triangles
 * [ ] Add more other type glyphs
-* [ ] Add to font patcher
+* [ ] Create Powerline symbol only font for `fontconfig`
 * [ ] Add to more fonts (just testing the included [Droid font](/patched-fonts) for now)
 * [ ] Add glyph set to patcher and fonts in [ryanoasis/font-nerd-icons](https://github.com/ryanoasis/font-nerd-icons)
