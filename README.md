@@ -1,4 +1,7 @@
 # Powerline Extra Symbols
+
+_NOTE: This repo will soon probably just hold the glyphs. The patched fonts will eventually be available in [ryanoasis/font-nerd-icons](https://github.com/ryanoasis/font-nerd-icons)_
+
 Extra glyphs for your powerline separators (work in progress)
 
 ![preview](preview.png)
