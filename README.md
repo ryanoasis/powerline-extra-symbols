@@ -12,6 +12,23 @@ Vim preview also showing column number glyph:
 
 This prompt is on fiiire (flaming shell), just having some fun:
 
+* `vimrc` settings to achieve the above:
+  ```vim
+  " testing extra-powerline-symbols
+
+  " set font:
+  " for now must grab this specific one:
+  " https://github.com/ryanoasis/powerline-extra-symbols/blob/master/patched-fonts/DroidSansMonoForPowerlinePlusNerdFileTypesMono.otf
+  set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Plus\ Nerd\ File\ Types\ Mono\ 12
+
+  " testing rounded separators (extra-powerline-symbols):
+  let g:airline_left_sep = "\uE0B4"
+  let g:airline_right_sep = "\uE0B6"
+
+  " set the CN (column number) symbol:
+  let g:airline_section_z = airline#section#create(["\uE0A1" . '%{line(".")}' . "\uE0A3" . '%{col(".")}'])
+  ```
+
 ![preview](preview-4.png)
 
 ![font forge](fontforge.png)
