@@ -4,7 +4,9 @@ Extra glyphs for your powerline separators (work in progress)
 
 ![preview](preview.png)
 
-_NOTE: This repo will soon probably just hold the glyphs. The patched fonts will eventually be available in [ryanoasis/font-nerd-icons](https://github.com/ryanoasis/font-nerd-icons)_
+These glpyhs are now available in the patched fonts from: [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+
+_NOTE: This repo will soon probably just hold the glyphs._
 
 Vim preview also showing column number glyph:
 
