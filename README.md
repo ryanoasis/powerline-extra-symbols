@@ -97,4 +97,4 @@ Example configuration I have for [milkbikis powerline-shell](https://github.com/
 * [ ] Add more other type glyphs
 * [ ] Create Powerline symbol only font for `fontconfig`
 * [ ] Add to more fonts (just testing the included [Droid font](/patched-fonts) for now)
-* [X] Add glyph set to patcher and fonts in [ryanoasis/font-nerd-icons](https://github.com/ryanoasis/font-nerd-icons)
+* [X] ~~Add glyph set to patcher and fonts in [ryanoasis/font-nerd-icons](https://github.com/ryanoasis/font-nerd-icons)~~
