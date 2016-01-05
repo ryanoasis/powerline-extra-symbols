@@ -4,7 +4,7 @@ Extra glyphs for your powerline separators (work in progress)
 
 ![preview](preview.png)
 
-These glpyhs are now available in the patched fonts from: [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
+These glyphs are now available in the patched fonts from: [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts)
 
 _NOTE: This repo will soon probably just hold the glyphs._
 
