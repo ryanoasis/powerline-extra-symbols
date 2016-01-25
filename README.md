@@ -1,6 +1,6 @@
 # Powerline Extra Symbols
 
-Extra glyphs for your powerline separators (work in progress)
+Extra glyphs for your powerline separators
 
 ![preview](preview.png)
 
