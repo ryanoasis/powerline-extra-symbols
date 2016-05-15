@@ -12,10 +12,6 @@ Vim preview also showing column number glyph:
 
 ![preview](preview-3.png)
 
-This prompt is on fiiire (flaming shell), just having some fun:
-
-![preview](preview-4.png)
-
 * `vimrc` settings to achieve the above:
   ```vim
   " testing extra-powerline-symbols
@@ -32,6 +28,12 @@ This prompt is on fiiire (flaming shell), just having some fun:
   " set the CN (column number) symbol:
   let g:airline_section_z = airline#section#create(["\uE0A1" . '%{line(".")}' . "\uE0A3" . '%{col(".")}'])
   ```
+
+This prompt is on fiiire (flaming shell), just having some fun:
+
+![preview](preview-4.png)
+
+# Glyphs
 
 ![font forge](fontforge.png)
 
@@ -96,5 +98,5 @@ Example configuration I have for [milkbikis powerline-shell](https://github.com/
 * [X] ~~Add more triangles~~
 * [ ] Add more other type glyphs
 * [ ] Create Powerline symbol only font for `fontconfig`
-* [X] ~~Add to more fonts (just testing the included [Droid font](/patched-fonts) for now)~~ see: [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)~~
+* [X] ~~Add to more fonts (just testing the included [Droid font](/patched-fonts) for now)~~ see: [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 * [X] ~~Add glyph set to patcher and fonts in [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)~~
