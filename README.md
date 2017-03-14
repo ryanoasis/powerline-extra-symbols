@@ -39,7 +39,7 @@ This prompt is on fiiire (flaming shell), just having some fun:
 
 # Sample Configurations
 
-Example configuration I have for [milkbikis powerline-shell](https://github.com/milkbikis/powerline-shell)
+Example configuration I have for [Banga's powerline-shell](https://github.com/banga/powerline-shell)
 
 ```py
         # original
