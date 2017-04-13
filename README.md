@@ -16,9 +16,7 @@ Vim preview also showing column number glyph:
   ```vim
   " testing extra-powerline-symbols
 
-  " set font:
-  " for now must grab this specific one:
-  " https://github.com/ryanoasis/powerline-extra-symbols/blob/master/patched-fonts/DroidSansMonoForPowerlinePlusNerdFileTypesMono.otf
+  " set font terminal font or set gui vim font to a Nerd Font (https://github.com/ryanoasis/nerd-fonts):
   set guifont=Droid\ Sans\ Mono\ for\ Powerline\ Plus\ Nerd\ File\ Types\ Mono\ 12
 
   " testing rounded separators (extra-powerline-symbols):
