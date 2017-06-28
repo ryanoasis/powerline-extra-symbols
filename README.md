@@ -2,9 +2,9 @@
 
 > Extra glyphs for your Powerline separators
 
-![preview](preview.png)
-
 These glyphs are now available in the patched fonts from: [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+
+![preview](preview.png)
 
 _NOTE: This repo will soon probably just hold the glyphs._
 
