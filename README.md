@@ -1,4 +1,4 @@
-# Powerline Extra Symbols
+![Powerline Extra Symbols](https://raw.githubusercontent.com/ryanoasis/powerline-extra-symbols/master/logo.svg?sanitize=true)
 
 > Extra glyphs for your Powerline separators
 
