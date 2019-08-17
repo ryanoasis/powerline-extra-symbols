@@ -1,16 +1,16 @@
-![Powerline Extra Symbols](https://raw.githubusercontent.com/ryanoasis/powerline-extra-symbols/master/logo.svg?sanitize=true)
+![Powerline Extra Symbols](https://raw.githubusercontent.com/ryanoasis/powerline-extra-symbols/master/img/logo.svg?sanitize=true)
 
 > Extra glyphs for your Powerline separators
 
 These glyphs are now available in the patched fonts from: [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
 
-![preview](preview.png)
+![preview](img/preview.png)
 
 _NOTE: This repo will soon probably just hold the glyphs._
 
 Vim preview also showing column number glyph:
 
-![preview](preview-3.png)
+![preview](img/preview-3.png)
 
 * `vimrc` settings to achieve the above:
   ```vim
@@ -30,11 +30,11 @@ Vim preview also showing column number glyph:
 
 This prompt is on fiiire (flaming shell), just having some fun:
 
-![preview](preview-4.png)
+![preview](img/preview-4.png)
 
 # Glyphs
 
-![font forge](fontforge.png)
+![font forge](img/fontforge.png)
 
 # Sample Configurations
 
